@@ -37,8 +37,8 @@ Contributions are welcome! Some areas for improvement include:
 
 * Adding chat history support
 * Prompt engineering refinements
-* Alternative retrieval strategies
-* Testing different VLMs and embedding models
+* Alternative retrieval strategies e.g., Graph-RAG for reasoning 
+* Testing with GPT 5, Gemini 1.5, Claude 3 Opus / Sonnet, Qwen-VL / Qwen-VL-Max, LLaVA-1.6 etc  
 
 To contribute:(for use different Vision Language Model and compare performance)
 1. Fork the repository.
@@ -46,6 +46,3 @@ To contribute:(for use different Vision Language Model and compare performance)
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
