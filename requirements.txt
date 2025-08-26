@@ -1,6 +1,7 @@
 huggingface-hub==0.27.1
 lancedb==0.18.0
 langchain
+gradio
 langchain-community
 langchain-core
 matplotlib==3.9.4
